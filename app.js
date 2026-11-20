@@ -7,7 +7,7 @@
 //----------------------------------------------
 //(2):
 // let x=0;
-// if(Boolean(x)==false){
+// if(!x){
 //     console.log("invalid");
 // }else{
 //     console.log("valid");
